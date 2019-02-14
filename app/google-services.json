@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "117286226391",
+    "firebase_url": "https://dinajoly-735fc.firebaseio.com",
+    "project_id": "dinajoly-735fc",
+    "storage_bucket": "dinajoly-735fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117286226391:android:592588fccd5dd1b4",
+        "android_client_info": {
+          "package_name": "com.example.company"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117286226391-o9dskore076qtp643oq1efrteu7u39kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmGMjV8oXtrT0i0LZgDZW7QjkafKs8Uak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
